@@ -1,12 +1,14 @@
-ab_cd = 7.26 / 3 + 2
-ef_gj = PI - ab_cd
-str = " Hello " * 1 +  " World!\n"
+a = 5 / 3 + 2
+b = PI - a
+
+str = " Hello " * 2 + " World!\n"
 print str
-print " ab_cd = " + ab_cd + "\\n"
-print " ef_gj = " + ef_gj + "\\n"
+print " a = " + a + "\\n"
+print " b = " + b + "\\n"
 print "1" < "abc"
 print "\\n"
-print "ab_cd = " + ab_cd
+
+a = 10
 
 if ab_cd <= 2 print " 1 = 1 "
 else print " 1 != 1 "
@@ -20,6 +22,8 @@ i = 0
    print " i = " + i + "\\n"
    i = i + 1
   }
+
+print " for\n"
 
 print " for\n"
   for i = 0, i < 10, i = i + 1{

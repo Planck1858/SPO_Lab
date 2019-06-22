@@ -1,0 +1,40 @@
+list type List;
+
+hash type HashSet;
+
+list.add(4);
+
+list.add(23);
+
+list.add(list.get(1));
+
+list.set(2,2431);
+
+list.contains(4);
+
+list.remove(4);
+
+list.contains(4);
+
+print (list);
+
+a type Float;
+
+a:=list.get(1)*25 - list.get(0);
+
+list.add(343);
+
+hash.add(35);
+
+hash.add(23);
+
+hash.add(23);
+
+hash.contains(343);
+
+hash.remove(23);
+
+hash.contains(23);
+
+
+print (list, a);

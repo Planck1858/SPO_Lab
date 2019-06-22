@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LABA_PO.iml" filepath="$PROJECT_DIR$/LABA_PO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SPO-master.iml" filepath="$PROJECT_DIR$/.idea/SPO-master.iml" />
     </modules>
   </component>
 </project>

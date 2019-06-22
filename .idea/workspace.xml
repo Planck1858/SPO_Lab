@@ -1,24 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b220e97-5077-4e9d-9454-9e6d678957eb" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="07cc4497-8b9c-44c5-943c-d9f5f7d36812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SPO-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lexer/LexemType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lexer/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lexer/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lexer/TokenOperand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Lexer/TokenOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/MyHashSet/MyHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/MyLinkedList/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/MyLinkedList/Wrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Parser/Parser1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/RPN/RPN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/Spo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/StackMachine/StackMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/StackMachine/Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Lexer/LexemType.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Lexer/Lexer.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Lexer/Token.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Lexer/TokenOperand.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Lexer/TokenOperator.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/MyHashSet/MyHashSet.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/MyLinkedList/MyLinkedList.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/MyLinkedList/Wrapper.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Parser/Parser.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Parser/Parser1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/RPN/RPN.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/Spo.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/StackMachine/StackMachine.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/StackMachine/Variable.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/spo/proga.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/ConditionalExpression$Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/Spo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/Lexer1/LexemType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/Lexer1/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/Lexer1/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/Lexer1/TokenOperand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/Lexer1/TokenOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/MyHashSet/MyHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/MyLinkedList/MyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/MyLinkedList/Wrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/Parser/Parser1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/RPN/RPN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/StackMachine/StackMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/StackMachine/Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/production/SPO-master/spo/programm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/Lexer1/LexemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/Lexer1/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/Lexer1/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/Lexer1/TokenOperand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/Lexer1/TokenOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/MyHashSet/MyHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/MyLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/MyLinkedList/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/Parser/Parser1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/RPN/RPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/StackMachine/StackMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/StackMachine/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spo/programm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stale_outputs_checked" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Program.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Lexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/AssigmentStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/AssigmentStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/BinaryExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/BinaryExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/BlockStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/BlockStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/BreakStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/BreakStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/ConditionalExpression$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/ConditionalExpression$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/ConditionalExpression$Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/ConditionalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/ConditionalExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/ContinueStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/ContinueStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/ForStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/ForStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/NumberValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/NumberValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/PrintStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/PrintStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/Statement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/Statement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/StringValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/StringValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/UnaryExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/UnaryExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/Value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/ValueExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/ValueExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/VariableExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/VariableExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Program/WhileStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Program/WhileStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/Token.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LABA_PO/Parser/TokenType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/production/SPO-master/Parser/TokenType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Parser.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/spo/MyLinkedList/Wrapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3468">
-              <caret line="208" column="34" selection-start-line="208" selection-start-column="34" selection-end-line="208" selection-end-column="34" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1561170358164" expanded="true" signature="159:184" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spo/MyLinkedList/MyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spo/StackMachine/StackMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2611">
+              <caret line="165" column="40" selection-start-line="165" selection-start-column="40" selection-end-line="165" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spo/StackMachine/Variable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,161 +166,101 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Program/NumberValue.java">
+        <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/LexemType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="93">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/TokenType.java">
+        <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/TokenOperator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Program.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Program/AssigmentStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Program/BreakStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
               <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Program/ConditionalExpression.java">
+        <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/TokenOperand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Program/Statement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Program/ContinueStatement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="153">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/Program/IfStatement.java">
+        <entry file="file://$PROJECT_DIR$/src/Spo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="272">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest.mf">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spo/programm.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>COMP_OP</find>
+      <find>tokens</find>
+      <find>OP_ADD_SUB</find>
+      <find>switchOp</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test/test_0.java" />
-        <option value="$PROJECT_DIR$/src/lexer/LEXER.java" />
-        <option value="$PROJECT_DIR$/src/Lexer/Parser.java" />
-        <option value="$PROJECT_DIR$/src/Lexer/Data.java" />
-        <option value="$PROJECT_DIR$/src/Lexer/Node.java" />
-        <option value="$PROJECT_DIR$/src/Lexer/HashSet.java" />
-        <option value="$PROJECT_DIR$/src/Lexer/List.java" />
-        <option value="$PROJECT_DIR$/src/Lexer/Lexer.java" />
-        <option value="$PROJECT_DIR$/src/Lexer/Poliz.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Main.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/ConstantExpression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/Constants.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/Statement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/Value.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/Expression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/Variables.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/NumberExpression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/UnaryExpression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/VariableExpression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/StringValue.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/ValueExpression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/PrintStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/BinaryExpression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/NumberValue.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/IfStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/BlocStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/BlockStatement.java" />
-        <option value="$PROJECT_DIR$/src/Main/Main.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/BreakStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/ContinueStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/ForStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/DoStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/WhileStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/Do_WhireStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/Do_WhileStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/DoWhileStatement.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Token.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Parser.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Lexer.java" />
-        <option value="$PROJECT_DIR$/src/Parser/TokenType.java" />
-        <option value="$PROJECT_DIR$/Program.txt" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/ConditionalExpression.java" />
-        <option value="$PROJECT_DIR$/src/Parser/Program/AssigmentStatement.java" />
+        <option value="$PROJECT_DIR$/src/spo/Lexer/Lexer.java" />
+        <option value="$PROJECT_DIR$/src/spo/Lexer1/Token.java" />
+        <option value="$PROJECT_DIR$/src/spo/Lexer1/TokenOperator.java" />
+        <option value="$PROJECT_DIR$/src/spo/MyLinkedList/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/spo/MyHashSet/MyHashSet.java" />
+        <option value="$PROJECT_DIR$/src/spo/proga.txt" />
+        <option value="$PROJECT_DIR$/src/spo/Lexer1/TokenOperand.java" />
+        <option value="$PROJECT_DIR$/src/spo/Lexer1/Lexer.java" />
+        <option value="$PROJECT_DIR$/src/spo/Parser/Parser1.java" />
+        <option value="$PROJECT_DIR$/src/spo/Lexer1/LexemType.java" />
+        <option value="$PROJECT_DIR$/src/spo/RPN/RPN.java" />
+        <option value="$PROJECT_DIR$/src/spo/StackMachine/Variable.java" />
+        <option value="$PROJECT_DIR$/src/Spo.java" />
+        <option value="$PROJECT_DIR$/src/spo/programm.txt" />
+        <option value="$PROJECT_DIR$/src/spo/StackMachine/StackMachine.java" />
+        <option value="$PROJECT_DIR$/src/spo/MyLinkedList/Wrapper.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="16" />
-    <option name="y" value="16" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1120" />
     <option name="height" value="656" />
   </component>
@@ -191,51 +270,78 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="LABA_PO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LABA_PO" type="462c0819:PsiDirectoryNode" />
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LABA_PO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LABA_PO" type="462c0819:PsiDirectoryNode" />
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LABA_PO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LABA_PO" type="462c0819:PsiDirectoryNode" />
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="spo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LABA_PO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LABA_PO" type="462c0819:PsiDirectoryNode" />
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spo" type="462c0819:PsiDirectoryNode" />
+              <item name="Lexer1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spo" type="462c0819:PsiDirectoryNode" />
+              <item name="MyHashSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spo" type="462c0819:PsiDirectoryNode" />
+              <item name="MyLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spo" type="462c0819:PsiDirectoryNode" />
               <item name="Parser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="LABA_PO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LABA_PO" type="462c0819:PsiDirectoryNode" />
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Parser" type="462c0819:PsiDirectoryNode" />
-              <item name="Program" type="462c0819:PsiDirectoryNode" />
+              <item name="spo" type="462c0819:PsiDirectoryNode" />
+              <item name="RPN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPO_Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPO_Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spo" type="462c0819:PsiDirectoryNode" />
+              <item name="StackMachine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Parser.Program" />
-    </key>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,65 +355,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Lexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lexer.Lexer" />
-      <module name="LABA_PO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lexer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Parser.Main" />
-      <module name="LABA_PO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Parser.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="LABA_PO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.test_0" />
-      <module name="LABA_PO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager">
+    <configuration name="Spo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spo" />
+      <module name="SPO-master" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Lexer" />
-        <item itemvalue="Application.test_0" />
+        <item itemvalue="Application.Spo" />
       </list>
     </recent_temporary>
   </component>
@@ -316,27 +374,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b220e97-5077-4e9d-9454-9e6d678957eb" name="Default Changelist" comment="" />
-      <created>1560262843635</created>
+      <changelist id="07cc4497-8b9c-44c5-943c-d9f5f7d36812" name="Default Changelist" comment="" />
+      <created>1561159697408</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560262843635</updated>
+      <updated>1561159697408</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,16 +393,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5766476" weight="0.6457205" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3109426" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.42335245" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49713466" weight="0.30551818" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -362,296 +411,251 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17406876" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5766476" weight="0.04037685" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.42335245" side_tool="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49713466" weight="0.30551818" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
-    </layout-to-restore>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LABA_PO$test_0.ic" NAME="test_0 Coverage Results" MODIFIED="1560263303740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Test.*</FILTER>
-    </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test/test_0.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/LABA_PO/Main/Main.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/FileInputStream.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/FileReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lexer/Lexer.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lexer/Parser.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lexer/List.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lexer/Poliz.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lexer/Node.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lexer/HashSet.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lexer/Data.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/src/Parser/Main.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Formatter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/DoWhileStatement.java" />
-    <entry file="file://$PROJECT_DIR$/src/Parser/Token.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/regex/Pattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="241">
+          <caret line="1066" column="26" selection-start-line="1066" selection-start-column="26" selection-end-line="1066" selection-end-column="26" />
           <folding>
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#54758#54759#0" expanded="true" />
+            <element signature="e#54802#54803#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="241">
+          <caret line="789" column="19" selection-start-line="789" selection-start-column="19" selection-end-line="789" selection-end-column="19" />
+          <folding>
+            <element signature="e#27881#27882#0" expanded="true" />
+            <element signature="e#27925#27926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/WhileStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/BinaryExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/BlockStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/ForStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/PrintStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/UnaryExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/Value.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/ValueExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/VariableExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/Variables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/StringValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Lexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
-          <caret line="108" column="10" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6760#6761#0" expanded="true" />
-            <element signature="e#6794#6795#0" expanded="true" />
-            <element signature="e#6851#6852#0" expanded="true" />
-            <element signature="e#6900#6901#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3468">
-          <caret line="208" column="34" selection-start-line="208" selection-start-column="34" selection-end-line="208" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/NumberValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/TokenType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Program.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/BreakStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/ContinueStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/IfStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/ConditionalExpression.java">
+    <entry file="file://$PROJECT_DIR$/src/spo/MyHashSet/MyHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/Statement.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="241">
+          <caret line="1010" column="19" selection-start-line="1010" selection-start-column="19" selection-end-line="1010" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/Program/AssigmentStatement.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="-1">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/Parser/Parser1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="138" column="63" selection-start-line="138" selection-start-column="56" selection-end-line="138" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/RPN/RPN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/LexemType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stale_outputs_checked">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.mf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/programm.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/TokenOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/Lexer1/TokenOperand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/StackMachine/StackMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2611">
+          <caret line="165" column="40" selection-start-line="165" selection-start-column="40" selection-end-line="165" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/StackMachine/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Spo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/MyLinkedList/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spo/MyLinkedList/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1561170358164" expanded="true" signature="159:184" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
