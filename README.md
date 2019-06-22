@@ -2,7 +2,7 @@
 ## Description
 **This is my programming language - Gach**
 
-- Gach consist of 4 main parts:
+- Gach consists of 4 main parts:
   + Lexer
   + Parser
   + RPN
