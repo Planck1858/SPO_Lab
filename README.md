@@ -1,4 +1,5 @@
 # SPO_Lab [My project for university]
+Project with my prog language for university
 ## Description
 **This is my programming language - Gach**
 
