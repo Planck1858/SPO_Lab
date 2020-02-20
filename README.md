@@ -1,7 +1,7 @@
 # SPO_Lab [My project for university]
-Project with my prog language for university
+
 ## Description
-**This is my programming language - Gach**
+**Project with my prog language for university**
 
 - Gach consists of 4 main parts:
   + Lexer
